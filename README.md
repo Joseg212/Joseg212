@@ -1,27 +1,9 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**Joseg212/Joseg212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-# Ingeniero José Hernández
+# Gayanuka Bulegoda
 
 <div align="center">
-  <!--<a href="https://freelancersenior.com/"><img src="https://img.shields.io/badge/Website-685A4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>-->
-  <a href="https://www.linkedin.com/in/jghernandez12/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-  <a href="mailto:jghernandez053@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://gayanukabulegoda.github.io/"><img src="https://img.shields.io/badge/Website-685A4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://lk.linkedin.com/in/gayanuka-bulegoda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:grbulegoda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@grbulegoda"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.figma.com/@grbulegoda"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://discord.com/users/grbulegoda"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -140,4 +122,3 @@ I'm always interested in connecting with fellow developers and industry professi
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
->>>>>>> d10c4f9 (Init Content)
