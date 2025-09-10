@@ -1,4 +1,4 @@
-# Gayanuka Bulegoda
+# Ingeniero José Hernández
 
 <div align="center">
   <a href="https://gayanukabulegoda.github.io/"><img src="https://img.shields.io/badge/Website-685A4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -11,13 +11,12 @@
 
 ---
 
-## About Me
+## Acerca de mí 
 
-I am an Associate Software Engineer at [Twist Digital](https://twistdigital.live/), bringing hands-on experience in enterprise application development and software architecture to deliver scalable, maintainable solutions. Building on my Graduate Diploma studies at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) and currently reading for a **BSc (Hons) Computer Science** at the [University of Bolton, UK](https://www.bolton.ac.uk/), I’m passionate about leveraging modern technologies and best practices to drive meaningful change. Whether crafting robust backend systems, architecting intuitive user interfaces, or exploring new frameworks, I’m always curious, collaborative, and committed to excellence. Let’s connect and build something amazing together!
-
+Soy Ingeniero en Computación aporto experiencia práctica en desarrollo de aplicaciones empresariales y arquitectura de software para ofrecer soluciones escalables y fáciles de mantener. Me apasiona aprovechar las tecnologías modernas y las mejores prácticas para impulsar cambios significativos. Ya sea creando sistemas backend robustos, diseñando interfaces de usuario intuitivas o explorando nuevos frameworks, siempre soy curioso, colaborativo y estoy comprometido con la excelencia. ¡Conectemos y construyamos algo increíble juntos!
 ---
 
-## Technical Expertise
+## Experiencia técnica
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
