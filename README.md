@@ -1,12 +1,12 @@
 # Ingeniero José Hernández
 
 <div align="center">
-  <a href="https://gayanukabulegoda.github.io/"><img src="https://img.shields.io/badge/Website-685A4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://lk.linkedin.com/in/gayanuka-bulegoda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:grbulegoda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://medium.com/@grbulegoda"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.figma.com/@grbulegoda"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://discord.com/users/grbulegoda"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <!--<a href="https://gayanukabulegoda.github.io/"><img src="https://img.shields.io/badge/Website-685A4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>-->
+  <a href="https://www.linkedin.com/in/jghernandez12/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+  <a href="mailto:jghernandez053@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.workana.com/freelancer/ee193619bce3024628793b6b539986f8" style="border-radius:1rem 1rem;background-color:rgb(0 45 114);color:white;padding:0.2rem 0.5rem 0.2rem 0.5rem">WORKANNA</a>
+  <a href="https://www.instagram.com/josegh012/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@FreelancerSenior"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"/></a>
 </div>
 
 ---
