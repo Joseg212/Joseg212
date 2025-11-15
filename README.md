@@ -69,16 +69,15 @@ I'm a Computer Engineer with hands-on experience in enterprise application devel
 
 ## GitHub Activity
 
-<!-- > Note: GitHub stats shown below are based on public repository contributions and may not reflect private development work or contributions to organization repositories.
+Note: GitHub stats shown below are based on public repository contributions and may not reflect private development work or contributions to organization repositories.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayanukabulegoda&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseg012&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayanukabulegoda&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseg012&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
- -->
 ---
 
 ## Professional Connect
